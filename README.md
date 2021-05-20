@@ -9,10 +9,14 @@ The code requires:
 - mockito framework for unit tests in Java version 1.8.5,
 - junit.
 
-To run, use the main class org.opt4j.start.Opt4J. This will open the Opt4j configurator, which enables to create different types of evolutionary algorithms. Examples of configurations for running the algorithms investigated in the paper above can be found in the folder config-file-examples:
+To run via GUI, use the main class org.opt4j.start.Opt4J. This will open the Opt4j configurator, which enables to create different types of evolutionary algorithms. Examples of configurations for running the algorithms investigated in the paper above can be found in the folder config-file-examples:
 
 - GA.sh for the Genetic Algorithm proposed in the paper above,
 - RLS.sh for the Randomised Local Search used in the paper above,
 - OnePlusOneEA.sh for the One-Plus-One Evolutionary algorithm proposed in the paper above.
 
+To run from the command line, use the command below:
 
+java -cp pspea.jar:opt4j-2.4.jar:junit.jar org.opt4j.start.Opt4JStarter <configFile.xml>
+
+More information can be found in the readme.pdf file.
