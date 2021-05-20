@@ -1,13 +1,13 @@
 <configuration>
   <module class="PSP.PSPLoggerModule">
-    <property name="filename">/Users/Leandro/Documents/workspace/ProjectSchedulingProblem/outputRLSLog.txt</property>
+    <property name="filename">outputRLSLog.txt</property>
     <property name="loggingPerEvaluation">true</property>
     <property name="evaluationStep">5064</property>
     <property name="loggingPerIteration">true</property>
     <property name="iterationStep">100</property>
   </module>
   <module class="PSP.PSPModule">
-    <property name="pspInstanceFileName">/Users/Leandro/Documents/workspace/ProjectSchedulingProblem/instance_sample7.txt</property>
+    <property name="pspInstanceFileName">problem-instance-examples/instance_sample7.txt</property>
     <property name="k">7</property>
     <property name="initGenotypeValue">-1</property>
     <property name="wCost">1.0E-6</property>
