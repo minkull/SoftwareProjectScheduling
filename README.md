@@ -8,7 +8,7 @@ Author of code:
 
 Leandro L. Minku, University of Birmingham, UK.
 
-The code requires:
+The code requires the following libraries, which are available in the lib folder under their respective licenses:
 - Opt4j framework for meta-heuristic optimisation version 2.4,
 - mockito framework for unit tests in Java version 1.8.5,
 - junit.
