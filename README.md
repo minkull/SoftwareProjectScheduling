@@ -23,4 +23,6 @@ To run from the command line, use the command below:
 
 java -cp pspea.jar:opt4j-2.4.jar:junit.jar org.opt4j.start.Opt4JStarter <configFile.xml>
 
+Examples of toy software project scheduling problem instances can be found in the folder problem-instance-examples.
+
 More information can be found in the readme.pdf file.
