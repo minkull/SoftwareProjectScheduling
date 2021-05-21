@@ -25,4 +25,4 @@ java -cp pspea.jar:opt4j-2.4.jar:junit.jar org.opt4j.start.Opt4JStarter <configF
 
 Examples of toy software project scheduling problem instances can be found in the folder problem-instance-examples.
 
-More information on running the code can be found in the readme.pdf file. Information about the algorithms implemented can be found in the paper and in Dirk's report project-scheduling.pdf.
+More information on the implementation and how to run the code can be found in readme.pdf. Information about the algorithms implemented can be found in the paper and in dirks-report-algorithm.pdf.
