@@ -1,6 +1,6 @@
 <configuration>
   <module class="PSP.PSPLoggerModule">
-    <property name="filename">outputRLSLog.txt</property>
+    <property name="filename">outputRLSLog.csv</property>
     <property name="loggingPerEvaluation">false</property>
     <property name="evaluationStep">5064</property>
     <property name="loggingPerIteration">true</property>
