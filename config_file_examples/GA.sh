@@ -1,10 +1,10 @@
 <configuration>
   <module class="PSP.PSPLoggerModule">
     <property name="filename">outputGALog.txt</property>
-    <property name="loggingPerEvaluation">false</property>
+    <property name="loggingPerEvaluation">true</property>
     <property name="evaluationStep">100</property>
     <property name="loggingPerIteration">true</property>
-    <property name="iterationStep">1</property>
+    <property name="iterationStep">78</property>
   </module>
   <module class="PSP.PSPModule">
     <property name="pspInstanceFileName">problem-instance-examples/instance_sample7.txt</property>
