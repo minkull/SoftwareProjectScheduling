@@ -10,7 +10,7 @@
     <property name="pspInstanceFileName">problem-instance-examples/instance_sample7.txt</property>
     <property name="k">4</property>
     <property name="initGenotypeValue">-1</property>
-    <property name="wCost">1.0E-6</property>
+    <property name="wCost">0.003</property>
     <property name="wDuration">0.1</property>
     <property name="skillConstraintMode">UNION_EMPLOYEES_ALL_SKILLS</property>
     <property name="normalisation">true</property>
