@@ -8,7 +8,7 @@
   </module>
   <module class="PSP.PSPModule">
     <property name="pspInstanceFileName">problem-instance-examples/instance_sample7.txt</property>
-    <property name="k">7</property>
+    <property name="k">4</property>
     <property name="initGenotypeValue">-1</property>
     <property name="wCost">1.0E-6</property>
     <property name="wDuration">0.1</property>
