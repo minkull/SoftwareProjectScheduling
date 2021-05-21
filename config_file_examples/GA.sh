@@ -1,6 +1,6 @@
 <configuration>
   <module class="PSP.PSPLoggerModule">
-    <property name="filename">outputGALog.txt</property>
+    <property name="filename">outputGALog.csv</property>
     <property name="loggingPerEvaluation">false</property>
     <property name="evaluationStep">100</property>
     <property name="loggingPerIteration">true</property>
