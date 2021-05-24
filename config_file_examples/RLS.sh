@@ -12,7 +12,7 @@
     <property name="initGenotypeValue">-1</property>
     <property name="wCost">0.01</property>
     <property name="wDuration">0.1</property>
-    <property name="skillConstraintMode">UNION_EMPLOYEES_ALL_SKILLS</property>
+    <property name="skillConstraintMode">EMPLOYEES_ALL_SKILLS</property>
     <property name="normalisation">true</property>
   </module>
   <module class="org.opt4j.common.archive.ArchiveModule">
