@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/369148596.svg)](https://zenodo.org/badge/latestdoi/369148596)
+
 # SoftwareProjectScheduling
 
 This repository contains the code used for the paper:
