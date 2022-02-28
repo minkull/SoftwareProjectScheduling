@@ -23,6 +23,6 @@ To run from the command line, use the command below:
 
 java -cp pspea.jar:lib/opt4j-2.4.jar:lib/junit.jar org.opt4j.start.Opt4JStarter <configFile.xml>
 
-Examples of toy software project scheduling problem instances can be found in the folder problem-instance-examples. An example of output log file generated when using GA.sh to solve the problem instance instance_sample_book.txt is in the folder example-output-log.
+Examples of toy software project scheduling problem instances can be found in the folder problem-instance-examples. An example of output log file generated when using GA.xml to solve the problem instance instance_sample_book.txt is in the folder example-output-log.
 
 More information on the implementation and how to run the code can be found in readme.pdf. Information about the algorithms implemented can be found in the paper and in dirks-report-algorithm.pdf.
