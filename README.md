@@ -21,7 +21,7 @@ To run via GUI, use the main class org.opt4j.start.Opt4J. This will open the Opt
 
 To run from the command line, use the command below:
 
-java -cp pspea.jar:opt4j-2.4.jar:junit.jar org.opt4j.start.Opt4JStarter <configFile.xml>
+java -cp pspea.jar:lib/opt4j-2.4.jar:lib/junit.jar org.opt4j.start.Opt4JStarter <configFile.xml>
 
 Examples of toy software project scheduling problem instances can be found in the folder problem-instance-examples. An example of output log file generated when using GA.sh to solve the problem instance instance_sample_book.txt is in the folder example-output-log.
 
