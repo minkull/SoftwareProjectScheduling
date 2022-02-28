@@ -15,9 +15,9 @@ The code requires the following libraries, which are available in the lib folder
 
 To run via GUI, use the main class org.opt4j.start.Opt4J. This will open the Opt4j configurator, which enables to create different types of evolutionary algorithms. Examples of configurations for running the algorithms investigated in the paper above can be found in the folder config-file-examples:
 
-- GA.sh for the Genetic Algorithm proposed in the paper above,
-- RLS.sh for the Randomised Local Search used in the paper above,
-- OnePlusOneEA.sh for the One-Plus-One Evolutionary algorithm proposed in the paper above.
+- GA.xml for the Genetic Algorithm proposed in the paper above,
+- RLS.xml for the Randomised Local Search used in the paper above,
+- OnePlusOneEA.xml for the One-Plus-One Evolutionary algorithm proposed in the paper above.
 
 To run from the command line, use the command below:
 
